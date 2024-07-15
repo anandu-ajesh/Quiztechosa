@@ -10,7 +10,7 @@ export const TeamList = ({teams}) => {
           {teams.map((team, index) => (
             <div
               key={index}
-              className="rounded bg-white p-4 text-black shadow-md"
+              className="rounded bg-orange-500 p-4 text-white shadow-md"
             >
               <h3>{team.name}</h3>
               <p>Members: {team.members}</p>
