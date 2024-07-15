@@ -1,0 +1,23 @@
+{
+  "quizzes": [
+  {
+    "title": "Creative",
+    "icon": "/idea.png",
+    "iconbg": "#FFF1E9"
+  },
+  {
+    "title": "Discovery",
+    "icon": "/ideas.png",
+    "iconbg": "#FFF1E9"
+  },
+  {
+    "title": "Curiosity",
+    "icon": "/brain.png",
+    "iconbg": "#FFF1E9"
+  },
+  {
+    "title": "Imagination",
+    "icon": "/trophy.png",
+    "iconbg": "#FFF1E9"
+  }
+]}
